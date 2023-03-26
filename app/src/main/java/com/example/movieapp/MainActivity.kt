@@ -7,7 +7,7 @@ import com.example.movieapp.navigation.Navigation
 
 import com.example.movieapp.ui.theme.MovieAppTheme
 
-// Done with Adam Ibragimov,Kenan Husic
+// Done with Muhammad Taha Imran,Kenan Husic
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
